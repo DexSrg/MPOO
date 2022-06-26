@@ -13,7 +13,6 @@ namespace MPOO
             //Llamar el metodo que desee probar
 
         }
-
         private static void MetodoSaludar()
         {
             Console.WriteLine("Saludar");
